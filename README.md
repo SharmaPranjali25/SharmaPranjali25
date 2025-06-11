@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmapranjali25" alt="sharmapranjali25" /></a> </p>
 
-- 🔭 I worked as Image Processing Intern in ThaparSat(Thapar University Satellite Program) **Image Processing and GUI Design of Satellite**
+- 🔭 I worked as Full Stack Java Developer in Mphasis Limited Company for 4 Months*
 
-- 🌱 I’m currently learning **Frameworks(Node.js , MongoDB)**
+- 🌱 I’m currently learning **Frameworks(Spring Boot, Angular)**
 
 - 📫 How to reach me **sharmapranjali115@gmail.com**
 
