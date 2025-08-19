@@ -1,9 +1,9 @@
 <h1 align="center"> I am Pranjali Sharma</h1>
-<h3 align="justify">
+<h4 align="justify">
   I am a dedicated B.E. student specializing in Computer Science at Thapar University. <br>
   With a strong foundation in programming and software development, I am passionate about exploring the ever-evolving landscape of technology. <br>
   💻 My journey in computer science has equipped me with skills in various programming languages, algorithms, and data structures, and I am constantly seeking to expand my knowledge through hands-on projects and collaborative learning.
-</h3>
+</h4>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
