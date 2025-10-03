@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Frameworks (Spring Boot, Angular)**  
 - 📫 How to reach me **sharmapranjali115@gmail.com**  
 - 📄 Know about my experiences
-  <a href="https://drive.google.com/file/d/1fGdukP7M48LCTLxnBlTGUAKUOb3BD6bC/view?usp=sharing" target="_blank">Resume (Google Drive)</a>
+  <a href="https://drive.google.com/file/d/1o65eu2hz5SPCUwF7aZ_WVT6oau7796K_/view?usp=sharing" target="_blank">Resume (Google Drive)</a>
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
