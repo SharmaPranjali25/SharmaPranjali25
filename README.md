@@ -5,11 +5,8 @@
   💻 My journey in computer science has equipped me with skills in various programming languages, algorithms, and data structures, and I am constantly seeking to expand my knowledge through hands-on projects and collaborative learning.
 </h4>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sharmapranjali25" alt="sharmapranjali25" />
-  </a>
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sharmapranjali25&theme=onedark&row=1&column=6)
+
 
 - 🔭 I worked as Full Stack Java Developer in Mphasis Limited Company for 4 Months*  
 - 🌱 I’m currently learning **Frameworks (Spring Boot, Angular)**  
