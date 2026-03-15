@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Angular.<br>I'm looking to collaborate on any new ideas.<br>I'm looking for help with Angular and Automation Testing.<br>I'm currently learning Testing Frameworks.<br>Ask me about Java, Spring Framework.
+I'm currently working on Backend Development.<br>I'm looking to collaborate on any new ideas.<br>.<br>I'm currently learning Frontend Development (Angular) .<br>Ask me about Java, Spring Framework.
 
 
 ## 🌐 Socials:
